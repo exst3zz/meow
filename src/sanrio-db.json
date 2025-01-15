@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Hello Kitty",
+    "img": "https://i.pinimg.com/736x/8b/66/b3/8b66b3ef2dac501708f73a08c8e8c20b.jpg",
+    "text": "Hello Kitty is a sweet, kind-hearted white cat with a red bow. She loves baking and making friends."
+  },
+  {
+    "id": 2,
+    "name": "My Melody",
+    "img": "https://i.pinimg.com/736x/c5/d6/83/c5d683205eb0474ce733d2996eb9e3b5.jpg",
+    "text": "My Melody is a cute rabbit who always wears a pink or red hood. She enjoys baking and spending time with her friends."
+  },
+  {
+    "id": 3,
+    "name": "Kuromi",
+    "img": "https://i.pinimg.com/736x/de/ae/80/deae80817e4ca4f188189b13fbf4a382.jpg",
+    "text": "Kuromi is a mischievous little rabbit with a jester's hat. She has a tough exterior but is quite sentimental."
+  },
+  {
+    "id": 4,
+    "name": "Cinnamoroll",
+    "img": "https://i.pinimg.com/736x/ca/37/be/ca37be89f3cc6a96a4e8605ddd2794de.jpg",
+    "text": "Cinnamoroll is a white puppy with long ears that help him fly. He is curious, friendly, and loves to nap."
+  },
+  {
+    "id": 5,
+    "name": "Keroppi",
+    "img": "https://i.pinimg.com/736x/4e/c3/af/4ec3affb67e6c7d7ce65787c5cc41621.jpg",
+    "text": "Keroppi is a cheerful and adventurous frog who loves singing and making new friends. He lives in Donut Pond and enjoys spending time with his family and friends."
+  },
+  {
+    "id": 6,
+    "name": "Pompompurin",
+    "img": "https://i.pinimg.com/736x/1e/d1/49/1ed14975a21e0aebcc5be9ef0a4d3275.jpg",
+    "text": "Pompompurin is a golden retriever with a love for pudding. He is friendly, laid-back, and loves napping in his owner's shoes."
+  },
+  {
+    "id": 7,
+    "name": "Badtz-Maru",
+    "img": "https://i.pinimg.com/736x/52/f5/11/52f511997b84d4f4e6e3d0b742b5710c.jpg",
+    "text": "Badtz-Maru is a naughty little penguin who dreams of greatness. He lives with his family in Gorgeoustown."
+  }
+]
