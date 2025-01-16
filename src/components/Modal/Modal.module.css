@@ -1,0 +1,39 @@
+.backdrop {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.modal {
+  position: absolute;
+  border-radius: 10px;
+  padding: 20px;
+  padding-top: 37px;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 400px;
+  width: 100%;
+  min-height: 400px;
+  background-color: #e7f8c4fa;
+}
+
+.closeModal {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  font-size: 50px;
+  border: none;
+  color: #242222;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.text {
+  max-width: 300px;
+  color: #0f2011;
+}

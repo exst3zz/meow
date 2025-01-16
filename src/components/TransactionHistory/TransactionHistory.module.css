@@ -1,0 +1,8 @@
+.topTable {
+  background-color: #232332;
+  color: #a1a1a1;
+}
+
+.elTransaction:nth-child(2n) {
+  background-color: #a1a1a1;
+}

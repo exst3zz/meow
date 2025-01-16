@@ -1,10 +1,9 @@
-import dataBaseSanrio from "../../sanrio-db.json";
-import PropTypes from "prop-types";
+import SanrioData from "../../db/sanrio.json";
 
 export default function SanrioList() {
   return (
     <ul>
-      {dataBaseSanrio.map(({ id, name, img, text }) => {
+      {SanrioData.map(({ id, name, img, text }) => {
         return (
           <li key={id}>
             <h2>{name}</h2>
@@ -16,9 +15,3 @@ export default function SanrioList() {
     </ul>
   );
 }
-
-SanrioList.propTypes = {
-  name: PropTypes.string.isRequired,
-  img: PropTypes.string,
-  text: PropTypes.string.isRequired,
-};

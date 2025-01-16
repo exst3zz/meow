@@ -1,0 +1,24 @@
+.wrap {
+  background-color: black;
+  color: azure;
+  padding: 10px;
+  max-width: 600px;
+  border-radius: 23px;
+}
+
+.topProfile {
+  display: flex;
+}
+
+.stats {
+  display: flex;
+}
+
+.nav {
+  display: flex;
+}
+
+.imageProfile {
+  border-radius: 50%;
+  overflow: hidden;
+}

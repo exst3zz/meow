@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "nickname": "v0idix",
+  "img": "https://i.pinimg.com/736x/77/09/04/770904d77bc6ba143ea1429dfcf75712.jpg",
+  "age": 25,
+  "stats": {
+    "posts": 120,
+    "followers": 4500,
+    "following": 300
+  },
+  "quote": "Chase the sun, embrace the journey.",
+  "aesthetic_word": "Serendipity",
+  "location": "San Francisco, CA"
+}
